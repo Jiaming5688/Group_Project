@@ -4,6 +4,8 @@ Project Title: The distribution characteristics of  traffic safety events in Los
 Group Name: Anti Road Rage
 
 Group Members: Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
+
+Link to Repo: https://github.com/Jiaming5688/Group_Project/tree/main
 ## Research Question
 In this project, our group aims to examine the distribution patterns of traffic incidents in Los Angeles. We will investigate the relationships between these safety events and various factors such as population density, income level, age, educational attainment, and household income. Based on our research findings, we can then identify policy options to reduce traffic accidents.
 ## Why This Matters
