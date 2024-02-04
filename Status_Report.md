@@ -12,7 +12,7 @@ Link to Proposal: https://github.com/Jiaming5688/Group_Project/blob/main/Group_P
   
 ## Status Update
 ### General Mood
-The team is optimistic but acknowledges the workload ahead. There's a positive atmosphere, with members eager to contribute to the project's success.
+Sunny. The team is optimistic but acknowledges the workload ahead. There's a positive atmosphere, with members eager to contribute to the project's success.
 
 ### What's Working
 Collaboration tools and communication channels are well-established, allowing for efficient teamwork. Initial data collection has been successful.
