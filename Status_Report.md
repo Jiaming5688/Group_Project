@@ -1,6 +1,10 @@
 # Group Project Status Report
 Project Title: The distribution characteristics of traffic safety events in Los Angeles
 
+Group Name: Anti Road Rage
+
+Group Members: Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
+
 Link to Proposal: https://github.com/Jiaming5688/Group_Project/blob/main/Group_Project_Proposal.md 
 
 ## Roles
