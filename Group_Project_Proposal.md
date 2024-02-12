@@ -20,6 +20,14 @@ Link: https://data.transportation.gov/Public-Transit/Major-Safety-Events/9ivb-8a
 **Data Source 2:** This dataset named Los Angeles Traffic Collisions, is from the LA City website. This dataset contains the time, location and description of private vehicle collisions in Los Angeles. 
 
 Link: https://data.lacity.org/Public-Safety/West-Los-Angeles-Traffic-Collisions-By-Year/n4ru-wwzt
+
+**Data Source 3/4/5/6/7:** These are all Census Data from Social Explorer, including education level, vehicle ownership, household income, population, and avaliable vehicles.
+
+Link: https://www.socialexplorer.com/
+
+**Data Source 8:** This dataset named LA Times Neighborhood Boundaries from LA Times.
+
+Link: https://geohub.lacity.org/datasets/lahub::la-times-neighborhood-boundaries/about
 ## Intended Analysis and Resulting Visualizations
 In this research project, our primary goal is to explore the distribution patterns of traffic accidents in the Los Angeles area and analyze the relationship between the distribution of these accidents and the demographic characteristics of the area (e.g., population density, age distribution, gender distribution, etc.). Using census data and traffic accident records in Los Angeles, we plan to reveal the interactions and effects between accident frequency and demographic characteristics through data analysis and visualization.
 
