@@ -21,7 +21,7 @@ Link: https://data.transportation.gov/Public-Transit/Major-Safety-Events/9ivb-8a
 
 Link: https://data.lacity.org/Public-Safety/West-Los-Angeles-Traffic-Collisions-By-Year/n4ru-wwzt
 
-**Data Source 3/4/5/6/7:** These are all Census Data from Social Explorer, including education level, vehicle ownership, household income, population, and avaliable vehicles.
+**Data Source 3/4/5/6/7:** These are all Census Data from Social Explorer, including education level, vehicle ownership, household income, population, and age.
 
 Link: https://www.socialexplorer.com/
 
